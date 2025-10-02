@@ -20,8 +20,8 @@ redirect_from:
 I am a master's student at Harbin Institute of Technology (Shenzhen), under the supervision of Prof. [Shuhan Qi](https://homepage.hit.edu.cn/qishuhan). I am now a visiting student at Hong Kong University of Science and Technology, working with Prof. [Long Chen](https://zjuchenlong.github.io/). 
 
 # 🤔 Research Interests
-Multimodal: Multimodal Large Language Models
-Efficient Methods: Model Compression, Efficient Training
+- Multimodal: Multimodal Large Language Models
+- Efficient Methods: Model Compression, Efficient Training
 
 # 📝 Publications 
 
@@ -43,7 +43,7 @@ Efficient Methods: Model Compression, Efficient Training
 
 [LAPTOP-Diff: Layer Pruning and Normalized Distillation for Compressing Diffusion Models](https://arxiv.org/abs/2404.11098)
 
-**Dingkun Zhang***, Sijia Li*, Chen Chen, Qingsong Xie, Haonan Lu
+**Dingkun Zhang**\*, Sijia Li\*, Chen Chen, Qingsong Xie, Haonan Lu
 
 [**Paper**](https://arxiv.org/pdf/2404.11098) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Compressing diffusion models through layer pruning and knowledge distillation.
