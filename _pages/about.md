@@ -23,7 +23,7 @@ I am a master's student at Harbin Institute of Technology (Shenzhen), under the 
 - Multimodal: Multimodal Large Language Models
 - Efficient Methods: Model Compression, Efficient Training
 
-<font color="#ff644e">I am enthusiastic about simple and effective methods.</font>
+<font color="#ff644e">I am enthusiastic about minimalist, effective, and practical methods.</font>
 
 # 🔥 News
 - Honored to join [LONG Group](https://long-group.cse.ust.hk/) at HKUST as a visiting student, working with Prof. [Long Chen](https://zjuchenlong.github.io/).
