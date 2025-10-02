@@ -41,13 +41,13 @@ I am a master's student at Harbin Institute of Technology (Shenzhen), under the 
 
 **Dingkun Zhang**, Shuhan Qi, Xinyu Xiao, Kehai Chen, Xuan Wang
 
-[**Paper**](https://arxiv.org/pdf/2503.07663) <strong><span class='show_paper_citations' data='LAPTOP-Diff.jpg'></span></strong>
+[**Paper**](https://arxiv.org/pdf/2503.07663) <strong><span class='show_paper_citations' data='ZxPZDesAAAAJ:u-x6o8ySG0sC'></span></strong>
 - Expand existing MLLMs to more modalities efficiently.
 - Minimalist, Anti-Catastrophic Forgetting.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/LAPTOP-Diff.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [LAPTOP-Diff: Layer Pruning and Normalized Distillation for Compressing Diffusion Models](https://arxiv.org/abs/2404.11098)
