@@ -46,7 +46,7 @@ I am a master's student at Harbin Institute of Technology (Shenzhen), under the 
 **Dingkun Zhang**\*, Sijia Li\*, Chen Chen, Qingsong Xie, Haonan Lu
 
 [**Paper**](https://arxiv.org/pdf/2404.11098) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Compressing diffusion models through layer pruning and knowledge distillation.
+- Compress diffusion models through layer pruning and knowledge distillation.
 </div>
 </div>
 
