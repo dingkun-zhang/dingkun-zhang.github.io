@@ -26,7 +26,7 @@ I am a master's student at Harbin Institute of Technology (Shenzhen), under the 
 <font color="#ff644e">I am enthusiastic about simple and effective methods.</font>
 
 # 🔥 News
-- I am honored to join [LONG Group](https://long-group.cse.ust.hk/) at HKUST as a visiting student, working with Prof. [Long Chen](https://zjuchenlong.github.io/).
+- Honored to join [LONG Group](https://long-group.cse.ust.hk/) at HKUST as a visiting student, working with Prof. [Long Chen](https://zjuchenlong.github.io/).
 - One paper on continual learning for MLLMs is accepted by EMNLP 2025.
 - One [Zhihu blog](https://zhuanlan.zhihu.com/p/1926805011641372983) on Mechanism of MLLMs is forwarded by [PaperWeekly](https://mp.weixin.qq.com/s/B4SSNI2-0_zYsM4cLimNLQ).
 - One paper on compressing diffusion models is out on arXiv.
