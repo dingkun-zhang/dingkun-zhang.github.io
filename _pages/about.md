@@ -66,3 +66,13 @@ I am a master's student at Harbin Institute of Technology (Shenzhen), under the 
 # 💻 Internships
 - *2025.10 - present*, Visiting Student, Hong Kong University of Science and Technology.
 - *2023.09 - 2024.04*, Research Intern, OPPO AI Center.
+- <tr>
+    <td style="padding:10px; vertical-align:top;">
+      <strong>Visiting Student</strong><br>
+      <a>Hong Kong University of Science and Technology</a>
+      <br>2025.10 - present<br>
+    </td>
+    <td style="padding:10px; width:100px; vertical-align:top;">
+      <img src="images/HKUST_logo.png" width="80px">
+    </td>
+  </tr>
