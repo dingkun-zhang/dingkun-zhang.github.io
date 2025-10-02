@@ -24,6 +24,12 @@ I am a master's student at Harbin Institute of Technology (Shenzhen), under the 
 - Efficient Methods: Model Compression, Efficient Training
 **I am enthusiastic about simple and effective methods.**
 
+# 🔥 News
+- I am honored to join [LONG Group](https://long-group.cse.ust.hk/) at HKUST as a visiting student, working with Prof. [Long Chen](https://zjuchenlong.github.io/).
+- One paper on continual learning for MLLMs is accepted by EMNLP 2025.
+- One paper on compressing diffusion models is out in arXiv.
+- Excited to be a Research Intern at OPPO AI Center.
+
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -39,7 +45,7 @@ I am a master's student at Harbin Institute of Technology (Shenzhen), under the 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [LAPTOP-Diff: Layer Pruning and Normalized Distillation for Compressing Diffusion Models](https://arxiv.org/abs/2404.11098)
