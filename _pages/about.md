@@ -20,7 +20,7 @@ redirect_from:
 I am a master's student at Harbin Institute of Technology (Shenzhen), under the supervision of Prof. [Shuhan Qi](https://homepage.hit.edu.cn/qishuhan). I am now a visiting student at Hong Kong University of Science and Technology, working with Prof. [Long Chen](https://zjuchenlong.github.io/). 
 
 # 🤔 Research Interests
-- <font color="red">M</font><font color="orange">u</font><font color="yellow">l</font><font color="green">t</font><font color="cyan">i</font><font color="blue">m</font><font color="purple">o</font><font color="red">d</font><font color="orange">a</font><font color="yellow">l</font>: Multimodal Large Language Models
+- Multimodal: Multimodal Large Language Models
 - Efficient Methods: Model Compression, Efficient Training
 
 # 📝 Publications 
