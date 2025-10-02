@@ -27,14 +27,14 @@ I am a master's student at Harbin Institute of Technology (Shenzhen), under the 
 
 # 🔥 News
 - Honored to join [LONG Group](https://long-group.cse.ust.hk/) at HKUST as a visiting student, working with Prof. [Long Chen](https://zjuchenlong.github.io/).
-- One paper on continual learning for MLLMs is accepted by EMNLP 2025.
+- One paper on continual learning for MLLMs is accepted by EMNLP 2025 main.
 - One [Zhihu blog](https://zhuanlan.zhihu.com/p/1926805011641372983) on Mechanism of MLLMs is forwarded by [PaperWeekly](https://mp.weixin.qq.com/s/B4SSNI2-0_zYsM4cLimNLQ).
 - One paper on compressing diffusion models is out on arXiv.
 - Excited to be a Research Intern at OPPO AI Center.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/MERA.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025 main</div><img src='images/MERA.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Merge then Realign: Simple and Effective Modality-Incremental Continual Learning for Multimodal LLMs](https://arxiv.org/abs/2503.07663)
@@ -42,7 +42,7 @@ I am a master's student at Harbin Institute of Technology (Shenzhen), under the 
 **Dingkun Zhang**, Shuhan Qi, Xinyu Xiao, Kehai Chen, Xuan Wang
 
 [**Paper**](https://arxiv.org/pdf/2503.07663) <strong><span class='show_paper_citations' data='ZxPZDesAAAAJ:u-x6o8ySG0sC'></span></strong>
-- Expand existing MLLMs to more modalities efficiently.
+- Extend existing MLLMs to more modalities efficiently.
 - Minimalist, Anti-Catastrophic Forgetting.
 </div>
 </div>
