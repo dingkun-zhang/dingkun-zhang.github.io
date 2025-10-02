@@ -34,14 +34,14 @@ I am a master's student at Harbin Institute of Technology (Shenzhen), under the 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/MERA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/MERA.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Merge then Realign: Simple and Effective Modality-Incremental Continual Learning for Multimodal LLMs](https://arxiv.org/abs/2503.07663)
 
 **Dingkun Zhang**, Shuhan Qi, Xinyu Xiao, Kehai Chen, Xuan Wang
 
-[**Paper**](https://arxiv.org/pdf/2503.07663) <strong><span class='show_paper_citations' data='ZxPZDesAAAAJ:u-x6o8ySG0sC'></span></strong>
+[**Paper**](https://arxiv.org/pdf/2503.07663) <strong><span class='show_paper_citations' data='LAPTOP-Diff.jpg'></span></strong>
 - Expand existing MLLMs to more modalities efficiently.
 - Minimalist, Anti-Catastrophic Forgetting.
 </div>
