@@ -21,7 +21,7 @@ I am a master's student at Harbin Institute of Technology (Shenzhen), under the 
 
 # 🤔 Research Interests
 - Multimodal: Multimodal Large Language Models
-- Efficient Methods: Model Compression, Efficient Training & Inference
+- Efficient Methods: Efficient Training & Inference, Model Compression
 
 <font color="#ff644e">I am enthusiastic about minimalist, effective, and practical methods.</font>
 
