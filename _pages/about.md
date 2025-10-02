@@ -40,7 +40,7 @@ I am a master's student at Harbin Institute of Technology (Shenzhen), under the 
 
 **Dingkun Zhang**, Shuhan Qi, Xinyu Xiao, Kehai Chen, Xuan Wang
 
-[**Paper**](https://arxiv.org/pdf/2503.07663) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Paper**](https://arxiv.org/pdf/2503.07663) <strong><span class='show_paper_citations' data='ZxPZDesAAAAJ:u-x6o8ySG0sC'></span></strong>
 - Expand existing MLLMs to more modalities efficiently.
 - Minimalist, Anti-Catastrophic Forgetting.
 </div>
@@ -53,7 +53,7 @@ I am a master's student at Harbin Institute of Technology (Shenzhen), under the 
 
 **Dingkun Zhang**\*, Sijia Li\*, Chen Chen, Qingsong Xie, Haonan Lu
 
-[**Paper**](https://arxiv.org/pdf/2404.11098) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Paper**](https://arxiv.org/pdf/2404.11098) <strong><span class='show_paper_citations' data='ZxPZDesAAAAJ:u5HHmVD_uO8C'></span></strong>
 - Compress diffusion models through layer pruning and knowledge distillation.
 </div>
 </div>
