@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a master's student at Harbin Institute of Technology (Shenzhen), under the supervision of Prof. [Shuhan Qi](https://homepage.hit.edu.cn/qishuhan). I am now a visiting student at Hong Kong University of Science and Technology, working with Prof. [Long Chen](https://zjuchenlong.github.io/). 
+I am a master's student at Harbin Institute of Technology (Shenzhen), under the supervision of Prof. [Shuhan Qi](https://homepage.hit.edu.cn/qishuhan). I am now a visiting student at Hong Kong University of Science and Technology, working with Prof. [Long Chen](https://zjuchenlong.github.io/). <span id="total_cit"></span>
 
 # 🤔 Research Interests
 - Multimodal: Multimodal Large Language Models
