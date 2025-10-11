@@ -68,5 +68,5 @@ I am a master's student at Harbin Institute of Technology (Shenzhen), under the 
 - *2023.09 - 2024.04*, Research Intern, OPPO AI Center.
 
 <div style="float:left;">
-<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=c4debb&w=300&t=tt&d=3EcqfYnomlinS8j6dDBwW7xi-DCIuM4Bi3NB9MY2sYI&co=ffffff&cmo=ff968d&cmn=ff644e&ct=808080'></script>
+<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=300&t=tt&d=3EcqfYnomlinS8j6dDBwW7xi-DCIuM4Bi3NB9MY2sYI&co=b7d6ef&cmo=499adb&cmn=499adb&ct=ffffff'></script>
 </div>
