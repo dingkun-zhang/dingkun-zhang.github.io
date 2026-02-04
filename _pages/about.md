@@ -42,7 +42,7 @@ I am a master's student at Harbin Institute of Technology (Shenzhen). Prior to t
 
 **Dingkun Zhang**, Shuhan Qi, Yulin Wu, Xinyu Xiao, Xuan Wang, Long Chen
 
-[**Paper**](https://arxiv.org/abs/2602.03815) <strong><span class='show_paper_citations' data=''></span></strong>
+[**Paper**](https://arxiv.org/abs/2602.03815)/[**Code**](https://github.com/dingkun-zhang/DualSpeed) <strong><span class='show_paper_citations' data=''></span></strong>
 - A framework to accelerate MLLMs training via visual token pruning.
 - Overcome the training-inference mismatch when introducing visual token pruning to training time.
 </div>
