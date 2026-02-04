@@ -17,22 +17,36 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a master's student at Harbin Institute of Technology (Shenzhen), under the supervision of Prof. [Shuhan Qi](https://homepage.hit.edu.cn/qishuhan). I am now a visiting student at Hong Kong University of Science and Technology, working with Prof. [Long Chen](https://zjuchenlong.github.io/).
+I am a master's student at Harbin Institute of Technology (Shenzhen). Prior to this, I obtained my bachelor's degree from the same institution.
 
 # 🤔 Research Interests
 - Multimodal: Multimodal Large Language Models
-- Efficient Methods: Efficient Training and Inference, Continual Learning, Model Compression
+- Efficient Training and Inference: Visual Token Reduction, Continual Learning, Model Compression
 
 <font color="#ff644e">I am enthusiastic about minimalist, efficient, and practical methods.</font>
 
 # 🔥 News
-- Honored to join [LONG Group](https://long-group.cse.ust.hk/) at HKUST as a visiting student, working with Prof. [Long Chen](https://zjuchenlong.github.io/).
-- One paper on continual learning for MLLMs is accepted by EMNLP 2025 main.
-- One [Zhihu blog](https://zhuanlan.zhihu.com/p/1926805011641372983) on Mechanism of MLLMs is forwarded by [PaperWeekly](https://mp.weixin.qq.com/s/B4SSNI2-0_zYsM4cLimNLQ).
-- One paper on compressing diffusion models is out on arXiv.
-- Excited to be a Research Intern at OPPO AI Center.
+- 2026.02: One paper on efficient training for MLLMs is out on arXiv, see [here](https://arxiv.org/abs/2602.03815).
+- 2025.10: Honored to join [LONG Group](https://long-group.cse.ust.hk/) at HKUST as a visiting student, working with Prof. [Long Chen](https://zjuchenlong.github.io/).
+- 2025.08: One paper on continual learning for MLLMs is accepted by EMNLP 2025 main, see [here](https://arxiv.org/abs/2503.07663).
+- 2025.08: One [Zhihu blog](https://zhuanlan.zhihu.com/p/1926805011641372983) on Mechanism of MLLMs is forwarded by [PaperWeekly](https://mp.weixin.qq.com/s/B4SSNI2-0_zYsM4cLimNLQ).
+- 2024.04: One paper on compressing diffusion models is out on arXiv, see [here](https://arxiv.org/abs/2404.11098).
+- 2023.09: Excited to be a Research Intern at OPPO AI Center.
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/DualSpeed.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Fast-Slow Efficient Training for Multimodal Large Language Models via Visual Token Pruning](https://arxiv.org/abs/2602.03815)
+
+**Dingkun Zhang**, Shuhan Qi, Yulin Wu, Xinyu Xiao, Xuan Wang, Long Chen
+
+[**Paper**](https://arxiv.org/abs/2602.03815) <strong><span class='show_paper_citations' data=''></span></strong>
+- A framework to accelerate MLLMs training via visual token pruning.
+- Overcome the training-inference mismatch when introducing visual token pruning to training time.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025 main</div><img src='images/MERA.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -64,7 +78,7 @@ I am a master's student at Harbin Institute of Technology (Shenzhen), under the 
 - *2020.09 - 2024.06*, Undergraduate Student, Harbin Institute of Technology (Shenzhen).
 
 # 💻 Internships
-- *2025.10 - present*, Visiting Student, Hong Kong University of Science and Technology.
+- *2025.10 - 2026.02*, Visiting Student, Hong Kong University of Science and Technology.
 - *2023.09 - 2024.04*, Research Intern, OPPO AI Center.
 
 <div style="float:left;">
