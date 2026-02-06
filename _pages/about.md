@@ -42,7 +42,7 @@ I am a master's student at Harbin Institute of Technology (Shenzhen). Prior to t
 
 **Dingkun Zhang**, Shuhan Qi, Yulin Wu, Xinyu Xiao, Xuan Wang, Long Chen
 
-[**Paper**](https://arxiv.org/abs/2602.03815)/[**Code**](https://github.com/dingkun-zhang/DualSpeed) <strong><span class='show_paper_citations' data=''></span></strong>
+[**Paper**](https://arxiv.org/abs/2602.03815)/[**Code**](https://github.com/dingkun-zhang/DualSpeed) <strong><span class='show_paper_citations' data='ZxPZDesAAAAJ:UeHWp8X0CEIC'></span></strong>
 - A framework to accelerate MLLMs training via visual token pruning.
 - Overcome the training-inference mismatch when introducing visual token pruning to training time.
 </div>
@@ -55,7 +55,7 @@ I am a master's student at Harbin Institute of Technology (Shenzhen). Prior to t
 
 **Dingkun Zhang**, Shuhan Qi, Xinyu Xiao, Kehai Chen, Xuan Wang
 
-[**Paper**](https://arxiv.org/pdf/2503.07663) <strong><span class='show_paper_citations' data='ZxPZDesAAAAJ:u-x6o8ySG0sC'></span></strong>
+[**Paper**](https://arxiv.org/pdf/2503.07663) <strong><span class='show_paper_citations' data='ZxPZDesAAAAJ:qjMakFHDy7sC'></span></strong>
 - Extend existing MLLMs to more modalities efficiently.
 - Minimalist, Anti-Catastrophic Forgetting.
 </div>
